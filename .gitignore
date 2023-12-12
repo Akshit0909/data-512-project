@@ -1,3 +1,6 @@
+/data/USGS_Wildland_Fire_Combined_Dataset.json
+/intermediate data/all_fire_data_with_distance.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
